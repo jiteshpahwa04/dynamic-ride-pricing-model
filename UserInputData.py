@@ -1,0 +1,16 @@
+class UserInput():
+    distance: float
+    name_Black: bool
+    name_BlackSUV: bool
+    name_Lux: bool
+    name_LuxBlack: bool
+    name_LuxBlackXL: bool
+    name_Lyft: bool
+    name_LyftXL: bool
+    name_Shared: bool
+    name_UberPool: bool
+    name_UberX: bool
+    name_UberXL: bool
+    name_WAV: bool
+    cab_type_Lyft: bool
+    cab_type_Uber: bool
